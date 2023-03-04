@@ -21,7 +21,7 @@
 - Playing Data Science at spare time
 - Currently learning Django
 - Personal website [link](https://www.geekzahra.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently working as Full-stack Developer at Soorchi, a gamification startup ;)
 
 <br><br>
 
