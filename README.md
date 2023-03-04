@@ -123,7 +123,7 @@
 	
 <li>
 <a href="https://instagram.com/zahra.geek" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  zahra.geek-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram:  zahra.geek-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 </li>
 
