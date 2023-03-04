@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://assets8.lottiefiles.com/packages/lf20_toupngka.json" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/geekzahra/geekzahra/blob/main/assets/104449-web-development.gif" width = 250px></picture>
 
 <br>
 
