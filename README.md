@@ -19,7 +19,7 @@
 - Playing Data Science at spare time
 - Currently learning Django
 - Personal website [link](https://www.geekzahra.com)
-- I’m currently working as Full-stack Developer at Soorchi, a gamification startup ;)
+- I’m currently working as Full-stack Developer at Soorchi, a gamification-related startup ;)
 
 <br><br>
 
