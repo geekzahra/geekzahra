@@ -43,6 +43,10 @@
         <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
     <br>IntelliJ IDEA
     </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
+      <br>NodeJS
+    </td> 
 </tr>
 <tr>
     <td align="center" width="96">
@@ -57,12 +61,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>  
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
-      <br>NodeJS
-    </td> 
    <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
       <br>VSCode
     </td>
 </tr>
