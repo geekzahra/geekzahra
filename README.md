@@ -31,12 +31,12 @@
    
 <table align="center">
 <tr>
-<td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
+        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="MySQL" />
       <br>MySQl
     </td>		
       <td align="center" width="96">
