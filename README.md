@@ -92,8 +92,7 @@
 
 --------
 
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/geekzahra/geekzahra/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 
 -----
 
