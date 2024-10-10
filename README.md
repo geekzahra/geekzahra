@@ -17,8 +17,8 @@
 
 - A passionate Self-taught Full-stack Developer
 - Playing Data Science at spare time
-- Currently learning Django
-- Personal website [link](https://www.geekzahra.com)
+- Python Freak! (Django, FASTAPI, Flask, ...)
+- Personal website [link](https://www.geekzahra.liara.run)
 - I’m currently working as Full-stack Developer at Soorchi, a gamification marketing-based platform ;)
 
 <br><br>
