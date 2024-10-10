@@ -19,7 +19,7 @@
 - Playing Data Science at spare time
 - Python Freak! (Django, FASTAPI, Flask, ...)
 - Personal website [link](https://www.geekzahra.liara.run)
-- I’m currently working as Full-stack Developer at Soorchi, a gamification marketing-based platform ;)
+- I’m currently working as Co-founder & Full-stack Developer at [BORHAN](https://www.borhan.site) ;)
 
 <br><br>
 
