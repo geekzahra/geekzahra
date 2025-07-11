@@ -15,7 +15,7 @@
 
 <br>
 
-- A passionate Self-taught Full-stack Developer
+- A passionate self-taught web developer
 - Front-end stack: JS-based frameworks (mostly Next & React)
 - Back-end stack: Python Freak! (Django, FastAPI, Flask, ...)
 - Personal website [link](https://www.geekzahra.liara.run)
