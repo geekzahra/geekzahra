@@ -30,58 +30,78 @@
    
    
 <table align="center">
-<tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="MySQL" />
-      <br>MySQl
-    </td>		
-      <td align="center" width="96">
-        <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
-    <br>IntelliJ IDEA
-    </td>
-        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
-    </td> 
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
- <td align="center" width="96">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
-      <br>HTML
-    </td>
-   <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>  
-   <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
-      <br>VSCode
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
-      <br>GitHub
-    </td>
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      <br>Ubuntu
-      </td>
-</tr>
-  
+      <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" style="background-color:#009688; border-radius: 10px;" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/cursor-dev/.github/main/profile/logo-black.png" width="48" height="48" alt="Cursor IDE" />
+      <br>Cursor
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle" />
+      <br>Kaggle
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Microsoft_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Microsoft_Visio_2019_logo.svg" width="48" height="48" alt="Visio" />
+      <br>Visio
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="48" height="48" alt="OpenAI Agent" />
+      <br>OpenAI Agent
+    </td>
+  </tr>
 </table>
 
 <br>
