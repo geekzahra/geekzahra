@@ -86,11 +86,11 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Microsoft_Visio_2019_logo.svg" width="48" height="48" alt="Visio" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Microsoft_Office_Visio_%282019%29.svg/1200px-Microsoft_Office_Visio_%282019%29.svg.png" width="48" height="48" alt="Visio" />
       <br>Visio
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
+      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="96">
