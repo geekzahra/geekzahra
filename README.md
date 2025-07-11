@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/cursor-dev/.github/main/profile/logo-black.png" width="48" height="48" alt="Cursor IDE" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.53.0/files/dark/cursor.png" width="48" height="48" alt="Cursor IDE" />
       <br>Cursor
     </td>
     <td align="center" width="96">
