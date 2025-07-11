@@ -44,7 +44,7 @@
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="48" height="48" alt="Flask" />
+      <img src="https://img.favpng.com/24/6/2/flask-python-web-framework-web-application-tutorial-png-favpng-Bhv4ME7Heb8X0q5D1yQA8DU1L.jpg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
   </tr>
