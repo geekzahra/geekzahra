@@ -16,10 +16,10 @@
 <br>
 
 - A passionate Self-taught Full-stack Developer
-- Playing Data Science at spare time
-- Python Freak! (Django, FASTAPI, Flask, ...)
+- Front-end stack: JS-based frameworks (mostly Next & React)
+- Back-end stack: Python Freak! (Django, FastAPI, Flask, ...)
 - Personal website [link](https://www.geekzahra.liara.run)
-- I’m currently working as Co-founder & Full-stack Developer at [BORHAN](https://www.borhan.site) ;)
+- I’m currently working as co-founder at [BORHAN](https://borhan-landing.vercel.app) ;)
 
 <br><br>
 
