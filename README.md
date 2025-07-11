@@ -76,11 +76,11 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Microsoft_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power BI" />
+      <br>PowerBI
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" width="48" height="48" alt="Excel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="48" height="48" alt="Excel" />
       <br>Excel
     </td>
   </tr>
