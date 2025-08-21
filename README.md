@@ -18,7 +18,7 @@
 - A passionate self-taught web developer
 - Front-end stack: JS-based frameworks (mostly Next & React)
 - Back-end stack: Python Freak! (Django, FastAPI, Flask, ...)
-- Personal website [link](https://www.geekzahra.vercel.app)
+- Personal website [link](https://geekzahra.vercel.app)
 - I’m currently working as co-founder at [BORHAN](https://borhan-landing.vercel.app) ;)
 
 <br><br>
