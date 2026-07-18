@@ -18,7 +18,7 @@
 - A passionate web developer based in Dubai
 - Front-end stack: JS-based frameworks (mostly Next & React)
 - Back-end stack: Python Freak! (Django, FastAPI, Flask, ...)
-- Personal website [link](https://geekzahra.vercel.app)
+- Personal website [link](https://geekzahra.site)
 - I’m currently working as co-founder at [BORHAN](https://borhan.online) ;)
 
 <br><br>
